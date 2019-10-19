@@ -6,9 +6,13 @@
     <head> "first time ever"
    </head>
    <body> 
+    p, h1{
+       color: red;
+       width: 500px;
+       border: 1px solid black;
    <h1>"This is a tryout test!!!"
    <p> This is my first try in coding. i have been attempting this for 2 days so lets see how this goes"</p>
-
+   }
    <ul>
    <li> its actually alot of fun</li>
    </ul>
