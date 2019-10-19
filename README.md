@@ -2,8 +2,7 @@
 <html>
    <head>
       <meta charset="utf-8">
-    <title> this is deifythe's <strong>first</strong> GIT project </title>
-    <head> "first time ever"
+     <title> This is deifythe's <strong>first</strong> GIT project </title>
    </head>
    <body> 
     p, h1{
